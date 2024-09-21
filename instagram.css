@@ -1,0 +1,219 @@
+*
+{
+  margin: 0;
+}
+.centerbox
+{
+    width: 100%;
+    height: 800px;
+    background-color: white;
+    float: left;
+}
+.instabox
+{
+    margin-top: 40px; 
+    margin-left: 30px;
+    width: 345px;
+    height: 420px;
+    background-color: white;
+    border: 1px solid grey;
+}
+.signupbox
+{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 345px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid grey;
+}
+.instafont
+{
+    padding-top: 10px;
+    padding-top: 40px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Billabong';
+}
+input
+{
+    padding: 10px;
+    size: 10px; 
+}
+.inputfirst
+{
+    padding-top: 45px;
+}
+.inputsecond
+{
+    padding-top: 8px;
+}
+.logindiv
+{
+    padding-top: 5px;
+    margin-top: 15px;
+    width: 262px;
+    height: 25px;
+    background-color: lightskyblue;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+.login a
+{
+    text-decoration: none;
+    color: black;
+}
+.hrule1
+{
+    margin-top: 30px;
+}
+.or
+{
+    font-family: arial;
+    color: grey;
+    font-size: 12px;
+}
+.fbimg img
+{
+    margin-left: 30px;
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+.loginwithfb
+{
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.fblink
+{
+    margin-top: 24px;
+    margin-left: 44px;
+}
+.loginwithfb a
+{
+    color: hsl(240, 62%, 31%);
+    font-weight: bold;
+    text-decoration: none;
+}
+.forgot
+{
+   margin-top: 1px;
+}
+.forgot a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.signup
+{
+    padding: 16px;
+}
+.signup a
+{
+    text-decoration: none;
+    color: blue;
+}
+.get
+{
+    margin-top: 15px;
+    font-weight: italic;
+}
+.playstore
+{
+    float: left;
+    width: 130px;
+    height: 42px;
+    margin-left: 50px;
+    margin-top: 15px;
+    background-color: black;
+    border-radius: 5px;
+}
+.microsoft
+{
+    float: left;
+    width: 130px;
+    height: 42px;
+    margin-left: 10px;
+    margin-top: 15px;
+    background-color: black;
+}
+.footer ul
+{
+    display: flex;
+    margin-top: 150px;
+}
+.footer ul li
+{
+    list-style: none;
+    padding: 8px;
+    font-size: 13.8px;
+    color: gray;
+    font-weight: italic;
+}
+.footer2 ul
+{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+.footer2 ul li
+{
+    list-style: none;
+    padding: 8px;
+    font-size: 13.8px;
+    color: gray;
+    font-weight: italic;
+}
+.playstore img
+{
+    width: 29px;
+    height: 29px;
+    float: left;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.playfont
+{
+    color: hwb(82 85% 12%);
+    font-size: 10px;
+    float: left;
+    font-weight: italic;
+    padding-left: 2px;
+    padding-top: 4px;
+}
+.googleplay
+{
+    color: white;
+    font-size: 18px;
+    font-weight: italic;
+    float: left;
+}
+.microsoft img
+{
+    width: 33px;
+    height: 33px;
+    float: left;
+    padding: 3px;
+}
+.microsoftfont
+{
+    color: hwb(82 85% 12%);
+    font-size: 10px;
+    float: left;
+    font-weight: italic;
+    padding-left: 2px;
+    padding-top: 4px;
+}
+.microsofttext
+{
+    color: white;
+    font-size: 18px;
+    font-weight: italic;
+    float: left;
+} 
+
+
+    
